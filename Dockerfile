@@ -39,5 +39,4 @@ RUN conda install -y pymc
 
 USER jovyan
 
-# With this docker file located in cloned Spreadsheets_Transfomation/
 # docker build --no-cache -t knowengdev/spreadsheets_transformation:$(CUR_DATE) .
