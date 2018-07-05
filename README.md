@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlanier/Spreadsheets_TransformationII.git/005a6b3)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlanier/Spreadsheets_TransformationII.git/b0d6cb8)
 
 # KnowEnG's Spreadsheets Transformation pipeline
 
