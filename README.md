@@ -1,6 +1,6 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/dlanier/Spreadsheets_TransformationII.git/b0d6cb8)
 
-# KnowEnG's Spreadsheets Transformation pipeline
+# A Wasie KnowEnG's Spreadsheets Transformation pipeline (saved experiment)
 
 This is the Knowledge Engine for Genomics (KnowEnG), an NIH BD2K Center of Excellence, Spreadsheets Transformation Pipeline.
 
